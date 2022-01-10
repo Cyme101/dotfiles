@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = isabelle.vall@gmail.com
+	name = Isabelle Vallerand
